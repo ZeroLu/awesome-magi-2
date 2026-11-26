@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title">
+<title id="title">Awesome MAGI-2 Prompt Library</title>
+<defs><linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101320"/><stop offset="1" stop-color="#2d2344"/></linearGradient><linearGradient id="accent"><stop stop-color="#e4c9ff"/><stop offset="1" stop-color="#aafaeb"/></linearGradient></defs>
+<rect width="1200" height="450" rx="30" fill="url(#bg)"/>
+<g fill="none" stroke="#e4c9ff" opacity=".32"><rect x="802" y="78" width="291" height="292" rx="24" transform="rotate(8 947 224)"/><rect x="827" y="99" width="240" height="246" rx="20" transform="rotate(-8 947 224)"/><circle cx="950" cy="224" r="69"/><path d="M950 123v202M850 224h200"/></g>
+<path d="M931 190v68l55-34z" fill="url(#accent)"/>
+<text x="81" y="123" fill="#aafaeb" font-size="20" letter-spacing="5" font-family="monospace">VIDEO PROMPT LIBRARY</text>
+<text x="75" y="241" fill="#f4edff" font-size="93" font-weight="700" font-family="system-ui,sans-serif">Awesome MAGI-2</text>
+<text x="82" y="311" fill="#e4c9ff" font-size="26" font-family="system-ui,sans-serif">Prompts, reference workflows, and real examples.</text>
+<path d="M82 354h140" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+</svg>
