@@ -7,7 +7,7 @@ function loadWidgets() {
     const previous = window.twttr;
     const w = window.twttr = previous || {_e: [], ready(fn) { this._e.push(fn); }};
     const el = Object.assign(document.createElement('script'), {src: 'https://platform.x.com/widgets.js', async: true});
-    const timer = setTimeout(() => { el.remove(); ready = undefined; reject(new Error('X player did not load')); }, 12000);
+    const timer = setTimeout(() => { el.remove(); ready = undefined; reject(new Error('X player did not load')); }, 22000);
     w.ready(api => { clearTimeout(timer); resolve(api); });
     el.onerror = () => { clearTimeout(timer); el.remove(); ready = undefined; reject(new Error('X player unavailable')); };
     document.head.append(el);
@@ -25,7 +25,7 @@ for (const panel of document.querySelectorAll('.play')) {
       const w = await loadWidgets();
       const embed = await Promise.race([
         w.widgets.createVideo(id,mount,{theme:'dark',dnt:true,conversation:'none',align:'center'}),
-        new Promise((_,reject) => setTimeout(() => reject(new Error('Player timed out')),12000))
+        new Promise((_,reject) => setTimeout(() => reject(new Error('Player timed out')),32000))
       ]);
       if (!embed) throw new Error('Embed unavailable');
       button.hidden = true; status.hidden = true;
