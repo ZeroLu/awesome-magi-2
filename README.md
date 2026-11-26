@@ -1,127 +1,284 @@
+Last updated on 2026-11-26
+
 ![Awesome MAGI-2](assets/banner.svg)
 
-# Awesome MAGI-2
+# Awesome MAGI-2 🎬
 
-**[English](README.md) · [简体中文](README-zh.md)**
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-magi-2?style=social)](https://github.com/ZeroLu/awesome-magi-2/stargazers)
 
-> A curated MAGI-2 video prompt library, with source videos, reference inputs, and reusable workflows. Published runs and official demonstrations are kept separate.
+| [English](./README.md) | [简体中文](./README-zh.md) |
+
+> A curated collection of the **best MAGI-2 prompts**, video generation techniques, and resources.
 
 Try on Cyberbara: [Text to Video](https://cyberbara.com/ai-video-generator?entry=magi-2&utm_source=awesome-magi-2&utm_medium=github) · [First Frame / First & Last](https://cyberbara.com/ai-video-generator?entry=magi-2-frames&utm_source=awesome-magi-2&utm_medium=github) · [References](https://cyberbara.com/ai-video-generator?entry=magi-2-reference&utm_source=awesome-magi-2&utm_medium=github)
 
-Contents: [X creator picks](#x-creator-picks) · [Published MAGI-2 examples](#published-magi-2-examples) · [Official recipes and showcases](#official-recipes-and-showcases) · [MAGI-2 Preview](#magi-2-preview) · [Resources and contributing](#resources-and-contributing)
+## 📖 Table of Contents
 
-## X creator picks
+1. [Cinematic Film Styles](#1-cinematic-film-styles)
+2. [Advertising & Commercial Branding](#2-advertising--commercial-branding)
+3. [UGC Style](#3-ugc-style)
+4. [Anime & Animation Styles](#4-anime--animation-styles)
+5. [Short-form Drama & Web Series](#5-short-form-drama--web-series)
+6. [Visual Effects & Experimental Styles](#6-visual-effects--experimental-styles)
+7. [Resources](#7-resources)
+8. [Contributing](#8-contributing)
+9. [Star History](#9-star-history)
 
-These creators published both a prompt and a result. GitHub READMEs cannot load X's official widgets, so use this repository’s GitHub Pages gallery to play the clips without downloading them.
+---
 
-### Rainy café, two voices
+## 1. Cinematic Film Styles
 
-Two clean cuts, locked character positions, and Mandarin lines timed by speaker.
+### 1.1. Rainy café, two voices
 
-[Play in the gallery](https://zerolu.github.io/awesome-magi-2/#rainy-cafe) · [Original prompt](https://x.com/johnAGI168/status/2125480454518133081) · [@johnAGI168 on X](https://x.com/johnAGI168/status/2125480417847353448)
+*Two clean cuts, locked character positions, and Mandarin lines timed by speaker.*
 
-### Golden-hour Korean dialogue
+**Prompt:**
 
-A staged romance scene with character references, a Korean line, and a timed music entrance.
+~~~text
+Duration: 20秒
+Aspect ratio: 16:9
+~~~
 
-[Play in the gallery](https://zerolu.github.io/awesome-magi-2/#golden-hour) · [Original prompt](https://x.com/johnAGI168/status/2125578676754366859) · [@johnAGI168 on X](https://x.com/johnAGI168/status/2125578530272821680)
+[Read the full original prompt](https://x.com/johnAGI168/status/2125480454518133081)
 
-### Four-shot painted animation
+https://github.com/user-attachments/assets/14584e26-3e6b-469c-ac2a-703439d62958
 
-A paired MAGI-2 and Seedance test of hand-painted continuity; their output resolutions differ.
+*Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125480417847353448)*
 
-[Play in the gallery](https://zerolu.github.io/awesome-magi-2/#ink-animation) · [Original prompt](https://grokvideomaker.com/magi-2-vs-seedance-2-5#:~:text=The%20exact%20prompt%20used%20for%20both) · [@hype_boyo on X](https://x.com/hype_boyo/status/2125480141241622629)
+### 1.2. 30-second ramen stall one-take
 
-## Published MAGI-2 examples
+*A long camera move with ordered dialogue, service actions, and a passing train.*
 
-The publishers identify these examples as runs of the flagship MAGI-2 and show their submitted prompts. Open each source for the original prompt, output and any shared inputs; media stays with its owner.
+**Mode:** Text · 30 s
 
+**Prompt:**
 
-### 1. Cinematic & long takes
+[Read the full original prompt](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)
 
-#### 1.1. 30-second ramen stall one-take
+https://github.com/user-attachments/assets/3375ca70-f549-4709-9cae-23e6fcffe526
 
-- **Mode:** Text · 30 s
-- **What to look for:** A long camera move with ordered dialogue, service actions, and a passing train.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)
+*Source: [CreateVision](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)*
 
-#### 1.2. Courtyard across three seasons
+### 1.3. Courtyard across three seasons
 
-- **Mode:** First + last frame · 5 s
-- **What to look for:** Locked camera and a seasonal change across two supplied frames.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#pin-the-first-and-last-frame)
+*Locked camera and a seasonal change across two supplied frames.*
 
-### 2. Dialogue & short drama
+**Mode:** First + last frame · 5 s
 
-#### 2.1. Paris portrait brought to life
+**Prompt:**
 
-- **Mode:** First frame · 8 s
-- **What to look for:** Animate one photo into a short exchange with two distinct speakers.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)
+[Read the full original prompt](https://createvision.ai/magi-2#pin-the-first-and-last-frame)
 
-#### 2.2. Mandarin street-food vlog
+https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
-- **Mode:** Text · 8 s
-- **What to look for:** An on-camera seller speaks Mandarin above a busy street sound bed.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)
+*Source: [CreateVision](https://createvision.ai/magi-2#pin-the-first-and-last-frame)*
 
-#### 2.3. Last bowl of the night
+### 1.4. City orbit in one take
 
-- **Mode:** Text · 5 s
-- **What to look for:** Two timed shots, a single spoken line, and no music.
-- **Original prompt / result:** [Seadanse](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)
+**Prompt:**
 
-### 3. Advertising & product shots
+[Read the full original prompt](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=iPhone%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84)
 
-#### 3.1. Skincare presenter and label
+*Source: [Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=iPhone%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84)*
 
-- **Mode:** Image reference · 10 s
-- **What to look for:** A product photo anchors the hands-on demo and the closing label shot.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#product-shots-that-keep-the-label)
+### 1.5. Paper plane across connected spaces
 
-#### 3.2. Transfer a camera arc to a packshot
+**Prompt:**
 
-- **Mode:** Image + video reference · 6 s
-- **What to look for:** One reference controls the bottle, another the camera path.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)
+[Read the full original prompt](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E4%B8%80%E6%9E%B6%E7%99%BD%E7%BA%B8%E9%A3%9E%E6%9C%BA)
 
-#### 3.3. Earbud case macro reveal
+*Source: [Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E4%B8%80%E6%9E%B6%E7%99%BD%E7%BA%B8%E9%A3%9E%E6%9C%BA)*
 
-- **Mode:** Text · 5 s · 16:9
-- **What to look for:** Test engraved lettering, a slow orbit, and a distinct opening sound.
-- **Original prompt / result:** [A.I. Creator U.](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)
+## 2. Advertising & Commercial Branding
 
-### 4. Social & UGC
+### 2.1. Skincare presenter and label
 
-#### 4.1. Living-room group dance
+*A product photo anchors the hands-on demo and the closing label shot.*
 
-- **Mode:** Text · 10 s · 9:16
-- **What to look for:** Vertical social video with a single camera move and distinct audio cues.
-- **Original prompt / result:** [CircleAIDance](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)
+**Mode:** Image reference · 10 s
 
-### 5. Motion, animation & sound
+**Prompt:**
 
-#### 5.1. BMX motion stress test
+[Read the full original prompt](https://createvision.ai/magi-2#product-shots-that-keep-the-label)
 
-- **Mode:** Text · 6 s
-- **What to look for:** A short action diagnostic: follow-through, landing and a sound tied to contact.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)
+https://github.com/user-attachments/assets/dcca41ab-fd13-4ea5-b9ab-2c4a5a86f4aa
 
-#### 5.2. Jazz trio timing test
+*Source: [CreateVision](https://createvision.ai/magi-2#product-shots-that-keep-the-label)*
 
-- **Mode:** Text · 8 s
-- **What to look for:** A single lateral dolly with multiple acoustic events to compare against the picture.
-- **Original prompt / result:** [CreateVision](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)
+### 2.2. Transfer a camera arc to a packshot
 
-### More published creator tests
+*One reference controls the bottle, another the camera path.*
 
-- [City orbit in one take](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=iPhone%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84) · Kazik / 数字生命卡兹克
-- [Paper plane across connected spaces](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E4%B8%80%E6%9E%B6%E7%99%BD%E7%BA%B8%E9%A3%9E%E6%9C%BA) · Kazik / 数字生命卡兹克
-- [Layered cut-paper animation](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E5%A4%9A%E5%B1%82%E9%95%82%E7%A9%BA%E5%89%AA%E7%BA%B8) · Kazik / 数字生命卡兹克
-- [Four-second cat with foley](https://seadanse.com/blog/magi-2-prompt-guide#prompt-1-a-4-second-cat-with-one-sound-line) · Seadanse
-- [Vertical iced-coffee ad](https://seadanse.com/blog/magi-2-prompt-guide#prompt-3-a-vertical-iced-coffee-ad-in-916) · Seadanse
+**Mode:** Image + video reference · 6 s
 
-## Official recipes and showcases
+**Prompt:**
+
+[Read the full original prompt](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)
+
+https://github.com/user-attachments/assets/6a65af40-9c10-4c31-9733-92753b75f240
+
+*Source: [CreateVision](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)*
+
+### 2.3. Earbud case macro reveal
+
+*Test engraved lettering, a slow orbit, and a distinct opening sound.*
+
+**Mode:** Text · 5 s · 16:9
+
+**Prompt:**
+
+[Read the full original prompt](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)
+
+*Source: [A.I. Creator U.](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)*
+
+### 2.4. Vertical iced-coffee ad
+
+**Prompt:**
+
+[Read the full original prompt](https://seadanse.com/blog/magi-2-prompt-guide#prompt-3-a-vertical-iced-coffee-ad-in-916)
+
+https://github.com/user-attachments/assets/1a61fd4c-b521-4afb-8eba-24be423cb0e4
+
+*Source: [Seadanse](https://seadanse.com/blog/magi-2-prompt-guide#prompt-3-a-vertical-iced-coffee-ad-in-916)*
+
+## 3. UGC Style
+
+### 3.1. Mandarin street-food vlog
+
+*An on-camera seller speaks Mandarin above a busy street sound bed.*
+
+**Mode:** Text · 8 s
+
+**Prompt:**
+
+[Read the full original prompt](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)
+
+https://github.com/user-attachments/assets/1f0994c0-7d6e-417d-9758-dec8122dcd8f
+
+*Source: [CreateVision](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)*
+
+### 3.2. Living-room group dance
+
+*Vertical social video with a single camera move and distinct audio cues.*
+
+**Mode:** Text · 10 s · 9:16
+
+**Prompt:**
+
+[Read the full original prompt](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)
+
+*Source: [CircleAIDance](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)*
+
+## 4. Anime & Animation Styles
+
+### 4.1. Four-shot painted animation
+
+*A paired MAGI-2 and Seedance test of hand-painted continuity; their output resolutions differ.*
+
+**Prompt:**
+
+[Read the full original prompt](https://grokvideomaker.com/magi-2-vs-seedance-2-5#:~:text=The%20exact%20prompt%20used%20for%20both)
+
+https://github.com/user-attachments/assets/969f6d0b-fb49-4cd5-8733-cdfdf4849d9a
+
+*Source: [@hype_boyo on X](https://x.com/hype_boyo/status/2125480141241622629)*
+
+### 4.2. Layered cut-paper animation
+
+**Prompt:**
+
+[Read the full original prompt](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E5%A4%9A%E5%B1%82%E9%95%82%E7%A9%BA%E5%89%AA%E7%BA%B8)
+
+*Source: [Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E5%A4%9A%E5%B1%82%E9%95%82%E7%A9%BA%E5%89%AA%E7%BA%B8)*
+
+## 5. Short-form Drama & Web Series
+
+### 5.1. Golden-hour Korean dialogue
+
+*A staged romance scene with character references, a Korean line, and a timed music entrance.*
+
+**Prompt:**
+
+~~~text
+Duration：15秒
+Aspect ratio：16:9横屏
+~~~
+
+[Read the full original prompt](https://x.com/johnAGI168/status/2125578676754366859)
+
+https://github.com/user-attachments/assets/38440daf-eca8-40a9-850d-2abb5d866804
+
+*Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125578530272821680)*
+
+### 5.2. Paris portrait brought to life
+
+*Animate one photo into a short exchange with two distinct speakers.*
+
+**Mode:** First frame · 8 s
+
+**Prompt:**
+
+[Read the full original prompt](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)
+
+https://github.com/user-attachments/assets/a7e714dd-dbfb-494c-a796-a45df45bac64
+
+*Source: [CreateVision](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)*
+
+### 5.3. Last bowl of the night
+
+*Two timed shots, a single spoken line, and no music.*
+
+**Mode:** Text · 5 s
+
+**Prompt:**
+
+[Read the full original prompt](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)
+
+https://github.com/user-attachments/assets/b78de4da-94db-43c6-bd5b-2c192f32ccf3
+
+*Source: [Seadanse](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)*
+
+## 6. Visual Effects & Experimental Styles
+
+### 6.1. BMX motion stress test
+
+*A short action diagnostic: follow-through, landing and a sound tied to contact.*
+
+**Mode:** Text · 6 s
+
+**Prompt:**
+
+[Read the full original prompt](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)
+
+https://github.com/user-attachments/assets/65de7f92-d45f-43c2-8148-0b2098bffecc
+
+*Source: [CreateVision](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)*
+
+### 6.2. Jazz trio timing test
+
+*A single lateral dolly with multiple acoustic events to compare against the picture.*
+
+**Mode:** Text · 8 s
+
+**Prompt:**
+
+[Read the full original prompt](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)
+
+https://github.com/user-attachments/assets/15a1590e-747c-4bfd-8e6e-792ab2673595
+
+*Source: [CreateVision](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)*
+
+### 6.3. Four-second cat with foley
+
+**Prompt:**
+
+[Read the full original prompt](https://seadanse.com/blog/magi-2-prompt-guide#prompt-1-a-4-second-cat-with-one-sound-line)
+
+*Source: [Seadanse](https://seadanse.com/blog/magi-2-prompt-guide#prompt-1-a-4-second-cat-with-one-sound-line)*
+
+## 7. Resources
+
+### Official recipes and showcases
 
 A documentation prompt is not a tested result. When a showcase does not disclose its original prompt, it is labeled as a demo instead.
 
@@ -130,7 +287,9 @@ A documentation prompt is not a tested result. When a showcase does not disclose
 - [Sand AI flagship showcase](https://sand.ai/blog/magi-2/): a continuous take across five art styles and reference-driven character and scene consistency. Watch the demos; no full original prompt is reproduced here.
 - [Creator’s 15-second camera-path study](https://www.reddit.com/r/HiggsfieldAI/comments/1y554oc/magi2_just_dropped_on_higgsfield_30s_clips_1080p/) ([original clip](https://x.com/pik_vik1/status/2125414890877637058)): a gray-box previs video guided the movement; the full prompt was not shared.
 
-## MAGI-2 Preview
+
+
+### MAGI-2 Preview
 
 The August 2026 research release is not the November flagship. Sand AI’s [demo configurations](https://github.com/SandAI-org/MAGI-2-preview/blob/main/assets/demo_samples.json) use these three distinct prompts across five runs.
 
@@ -139,11 +298,19 @@ The August 2026 research release is not the November flagship. Sand AI’s [demo
 - [Rainy café in structured JSON](https://github.com/SandAI-org/MAGI-2-preview/blob/main/assets/sample_enhanced_t2v.json) · T2V / JSON
 
 
-## Resources and contributing
+
+
+### Resources and contributing
 
 - [Sand AI launch notes](https://sand.ai/blog/magi-2/) · [Native API](https://platform.sand.ai/docs/create-generation/) · [First/last frames via Ark compatibility](https://platform.sand.ai/docs/ark-generations/)
 - [Sand AI’s pretraining probe](https://sand.ai/blog/magi-2/) (section 5): the Sudoku demo used the 480B pretraining checkpoint with prompt enhancement off. It is not a guarantee about the hosted model.
 - [Higgsfield guide](https://higgsfield.ai/blog/higgsfield-magi-2) · [Kie API example](https://docs.kie.ai/market/magi-2/text-to-video)
 - Input limits, audio controls and prompt syntax are provider-specific. Do not label Preview outputs as flagship results.
 
-[Contributions](CONTRIBUTING.md) welcome. The repository’s [MIT license](LICENSE) does not apply to linked third-party prompts, images, or video.
+## 8. Contributing
+
+[Contributions](CONTRIBUTING.md) are welcome. Include the original creator’s prompt and result.
+
+## 9. Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-magi-2&type=Date)](https://star-history.com/#ZeroLu/awesome-magi-2&Date)
