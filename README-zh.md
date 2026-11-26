@@ -129,6 +129,8 @@ https://github.com/user-attachments/assets/6a65af40-9c10-4c31-9733-92753b75f240
 
 [查看作者完整原提示词](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)
 
+https://github.com/user-attachments/assets/1394e2d6-5aaf-48b1-b0dc-ad093c5774fc
+
 *来源：[A.I. Creator U.](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)*
 
 ### 2.4. 竖屏冰咖啡广告
@@ -166,6 +168,8 @@ https://github.com/user-attachments/assets/1f0994c0-7d6e-417d-9758-dec8122dcd8f
 **提示词：**
 
 [查看作者完整原提示词](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)
+
+https://github.com/user-attachments/assets/5693cb0c-d05b-49be-960f-2eadea194d25
 
 *来源：[CircleAIDance](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)*
 
@@ -273,6 +277,8 @@ https://github.com/user-attachments/assets/15a1590e-747c-4bfd-8e6e-792ab2673595
 **提示词：**
 
 [查看作者完整原提示词](https://seadanse.com/blog/magi-2-prompt-guide#prompt-1-a-4-second-cat-with-one-sound-line)
+
+https://github.com/user-attachments/assets/cd81c7f6-b877-427e-879b-168e513560c9
 
 *来源：[Seadanse](https://seadanse.com/blog/magi-2-prompt-guide#prompt-1-a-4-second-cat-with-one-sound-line)*
 
