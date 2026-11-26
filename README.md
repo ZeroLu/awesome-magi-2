@@ -41,6 +41,8 @@ Aspect ratio: 16:9
 
 [Read the full original prompt](https://x.com/johnAGI168/status/2125480454518133081)
 
+https://github.com/user-attachments/assets/14584e26-3e6b-469c-ac2a-703439d62958
+
 *Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125480417847353448)*
 
 ### 1.2. 30-second ramen stall one-take
@@ -53,6 +55,8 @@ Aspect ratio: 16:9
 
 [Read the full original prompt](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)
 
+https://github.com/user-attachments/assets/3375ca70-f549-4709-9cae-23e6fcffe526
+
 *Source: [CreateVision](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)*
 
 ### 1.3. Courtyard across three seasons
@@ -64,6 +68,8 @@ Aspect ratio: 16:9
 **Prompt:**
 
 [Read the full original prompt](https://createvision.ai/magi-2#pin-the-first-and-last-frame)
+
+https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
 *Source: [CreateVision](https://createvision.ai/magi-2#pin-the-first-and-last-frame)*
 
@@ -95,6 +101,8 @@ Aspect ratio: 16:9
 
 [Read the full original prompt](https://createvision.ai/magi-2#product-shots-that-keep-the-label)
 
+https://github.com/user-attachments/assets/dcca41ab-fd13-4ea5-b9ab-2c4a5a86f4aa
+
 *Source: [CreateVision](https://createvision.ai/magi-2#product-shots-that-keep-the-label)*
 
 ### 2.2. Transfer a camera arc to a packshot
@@ -106,6 +114,8 @@ Aspect ratio: 16:9
 **Prompt:**
 
 [Read the full original prompt](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)
+
+https://github.com/user-attachments/assets/6a65af40-9c10-4c31-9733-92753b75f240
 
 *Source: [CreateVision](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)*
 
@@ -127,6 +137,8 @@ Aspect ratio: 16:9
 
 [Read the full original prompt](https://seadanse.com/blog/magi-2-prompt-guide#prompt-3-a-vertical-iced-coffee-ad-in-916)
 
+https://github.com/user-attachments/assets/1a61fd4c-b521-4afb-8eba-24be423cb0e4
+
 *Source: [Seadanse](https://seadanse.com/blog/magi-2-prompt-guide#prompt-3-a-vertical-iced-coffee-ad-in-916)*
 
 ## 3. UGC Style
@@ -140,6 +152,8 @@ Aspect ratio: 16:9
 **Prompt:**
 
 [Read the full original prompt](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)
+
+https://github.com/user-attachments/assets/1f0994c0-7d6e-417d-9758-dec8122dcd8f
 
 *Source: [CreateVision](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)*
 
@@ -164,6 +178,8 @@ Aspect ratio: 16:9
 **Prompt:**
 
 [Read the full original prompt](https://grokvideomaker.com/magi-2-vs-seedance-2-5#:~:text=The%20exact%20prompt%20used%20for%20both)
+
+https://github.com/user-attachments/assets/969f6d0b-fb49-4cd5-8733-cdfdf4849d9a
 
 *Source: [@hype_boyo on X](https://x.com/hype_boyo/status/2125480141241622629)*
 
@@ -190,6 +206,8 @@ Aspect ratio：16:9横屏
 
 [Read the full original prompt](https://x.com/johnAGI168/status/2125578676754366859)
 
+https://github.com/user-attachments/assets/38440daf-eca8-40a9-850d-2abb5d866804
+
 *Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125578530272821680)*
 
 ### 5.2. Paris portrait brought to life
@@ -202,6 +220,8 @@ Aspect ratio：16:9横屏
 
 [Read the full original prompt](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)
 
+https://github.com/user-attachments/assets/a7e714dd-dbfb-494c-a796-a45df45bac64
+
 *Source: [CreateVision](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)*
 
 ### 5.3. Last bowl of the night
@@ -213,6 +233,8 @@ Aspect ratio：16:9横屏
 **Prompt:**
 
 [Read the full original prompt](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)
+
+https://github.com/user-attachments/assets/b78de4da-94db-43c6-bd5b-2c192f32ccf3
 
 *Source: [Seadanse](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)*
 
@@ -228,6 +250,8 @@ Aspect ratio：16:9横屏
 
 [Read the full original prompt](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)
 
+https://github.com/user-attachments/assets/65de7f92-d45f-43c2-8148-0b2098bffecc
+
 *Source: [CreateVision](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)*
 
 ### 6.2. Jazz trio timing test
@@ -239,6 +263,8 @@ Aspect ratio：16:9横屏
 **Prompt:**
 
 [Read the full original prompt](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)
+
+https://github.com/user-attachments/assets/15a1590e-747c-4bfd-8e6e-792ab2673595
 
 *Source: [CreateVision](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)*
 
