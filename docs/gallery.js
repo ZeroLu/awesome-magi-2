@@ -1,12 +1,12 @@
 'use strict';
 let ready;
 function loadWidgets() {
-  if (window.twttr?.widgets?.createTweet) return Promise.resolve(window.twttr);
+  if (window.twttr?.widgets?.createVideo) return Promise.resolve(window.twttr);
   if (ready) return ready;
   ready = new Promise((resolve, reject) => {
     const previous = window.twttr;
     const w = window.twttr = previous || {_e: [], ready(fn) { this._e.push(fn); }};
-    const el = Object.assign(document.createElement('script'), {src: 'https://platform.twitter.com/widgets.js', async: true});
+    const el = Object.assign(document.createElement('script'), {src: 'https://platform.x.com/widgets.js', async: true});
     const timer = setTimeout(() => { el.remove(); ready = undefined; reject(new Error('X player did not load')); }, 12000);
     w.ready(api => { clearTimeout(timer); resolve(api); });
     el.onerror = () => { clearTimeout(timer); el.remove(); ready = undefined; reject(new Error('X player unavailable')); };
@@ -24,7 +24,7 @@ for (const panel of document.querySelectorAll('.play')) {
     try {
       const w = await loadWidgets();
       const embed = await Promise.race([
-        w.widgets.createTweet(id,mount,{theme:'dark',dnt:true,conversation:'none',align:'center'}),
+        w.widgets.createVideo(id,mount,{theme:'dark',dnt:true,conversation:'none',align:'center'}),
         new Promise((_,reject) => setTimeout(() => reject(new Error('Player timed out')),12000))
       ]);
       if (!embed) throw new Error('Embed unavailable');
