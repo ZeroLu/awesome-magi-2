@@ -8,6 +8,8 @@ Last updated on 2026-11-26
 
 | [English](./README.md) | [简体中文](./README-zh.md) |
 
+下方 19 个案例均附可直接复制的提示词。提示词根据原作者公开内容整理，不是逐字转载；示例视频为发布者的成片，不是本站重新生成。
+
 > 精选 MAGI-2 提示词、生成技巧和参考资源，按场景分类，每条保留原作者出处。
 
 在 Cyberbara 试用: [文生视频](https://cyberbara.com/ai-video-generator?entry=magi-2&utm_source=awesome-magi-2&utm_medium=github) · [首帧／首尾帧](https://cyberbara.com/ai-video-generator?entry=magi-2-frames&utm_source=awesome-magi-2&utm_medium=github) · [参考生视频](https://cyberbara.com/ai-video-generator?entry=magi-2-reference&utm_source=awesome-magi-2&utm_medium=github)
@@ -32,18 +34,19 @@ Last updated on 2026-11-26
 
 *两次硬切、固定人物轴线，普通话对白按角色分时。*
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-~~~text
-Duration: 20秒
-Aspect ratio: 16:9
-~~~
-
-[查看作者完整原提示词](https://x.com/johnAGI168/status/2125480454518133081)
+```text
+20 秒，16:9。深夜临街咖啡馆临窗卡座，男主穿炭灰大衣坐画左，女主穿浅色风衣坐画右。深木桌上摆两只白瓷杯、一张折好的登机牌。暖色吊灯照桌面，雨窗外的街灯泛冷蓝光。
+0–7 秒：35mm 双人侧景，轻微手持。男主将登机牌向她那边推一点；女主低头，拇指沿杯沿轻轻摩挲。
+7–14 秒：硬切女主过肩近景。她停一拍再抬眼，小声用中文说，他总把决定留给她。
+14–20 秒：沿同一视线轴硬切男主特写，几乎察觉不到的慢推。他低声承认，自己不敢开口让她留下。最后停在两人安静对视的余韵。
+身份、衣着、道具与左右位置全片不变。对白逐字对口型，只留雨、冰箱低鸣和瓷杯轻碰；不要音乐、字幕或旁白。
+```
 
 https://github.com/user-attachments/assets/14584e26-3e6b-469c-ac2a-703439d62958
 
-*来源：[@johnAGI168 on X](https://x.com/johnAGI168/status/2125480417847353448)*
+*来源：[@johnAGI168 on X](https://x.com/johnAGI168/status/2125480417847353448) · [提示词出处](https://x.com/johnAGI168/status/2125480454518133081)*
 
 ### 1.2. 30 秒拉面摊一镜到底
 
@@ -51,9 +54,11 @@ https://github.com/user-attachments/assets/14584e26-3e6b-469c-ac2a-703439d62958
 
 **模式：** Text · 30 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)
+```text
+30 秒一镜到底。雨夜铁路桥下的小拉面摊，开场贴近冒蒸汽的汤锅，戴白头巾的中年师傅用长筷提起面条。镜头沿柜台向右滑到穿黄色雨衣的客人。她点酱油拉面加蛋，他笑着答应做一大碗。保持镜头连贯，拍下舀汤、放叉烧和对半切的蛋、把碗推过去；她迎着热气笑出声。火车从上方经过，纸灯笼轻晃，镜头慢慢拉远，让雨中的摊子成为画面中心。声音是雨打布篷、汤锅翻滚、头顶车轮和收音机里的轻声爵士，不切镜。
+```
 
 https://github.com/user-attachments/assets/3375ca70-f549-4709-9cae-23e6fcffe526
 
@@ -65,9 +70,11 @@ https://github.com/user-attachments/assets/3375ca70-f549-4709-9cae-23e6fcffe526
 
 **模式：** First + last frame · 5 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#pin-the-first-and-last-frame)
+```text
+上传冬景和夏景分别作为首帧与尾帧。5 秒，固定广角。石墙与院中唯一一棵樱树始终对齐。积雪退去，枝头逐渐开出粉花，几瓣花落下，最后转成晴天里的浓密绿叶。所有变化连续发生，不切镜、不移动机位。声音由冬日风声过渡到春鸟，再过渡为夏蝉。
+```
 
 https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
@@ -75,17 +82,21 @@ https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
 ### 1.4. 城市环绕一镜到底
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=iPhone%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84)
+```text
+自然光下的手机实拍质感，拍一位穿大衣、常速行走的女模特。先侧拍全身，靠近前侧后加速绕到背后并抬到头顶；再沿弧线降至正面，短暂停在脸部近景，最后后退抬高收成城市大远景。运动节奏由镜头控制，人物不必变速。保持自然广角透视，人脸比例正常，近处比远楼移动得快，不能让整座城像平面背景一样转。默认一镜到底，必要的衔接藏在衣物或建筑遮满画面时，节奏与音乐配合。
+```
 
 *来源：[Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=iPhone%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84)*
 
 ### 1.5. 纸飞机穿过连续空间
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E4%B8%80%E6%9E%B6%E7%99%BD%E7%BA%B8%E9%A3%9E%E6%9C%BA)
+```text
+自然的傍晚手机镜头，一镜跟随一架白纸飞机。纸飞机飞离南方教学楼天台，俯冲进入敞开的走廊，斜穿教室掠过课桌和黑板，从宽窗飞到室外。沿外墙滑翔时，镜头由翼上俯拍绕到翼下仰拍。再跟进底楼大厅，镜头滚转一圈，在出门时回正，贴着草地略过影子后抬升。纸飞机减速，落进迎面女孩的掌心。保持同一架飞机、自然滑翔和清晰的空间视差，每次进出必须通过真实开口，禁止穿墙。
+```
 
 *来源：[Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E4%B8%80%E6%9E%B6%E7%99%BD%E7%BA%B8%E9%A3%9E%E6%9C%BA)*
 
@@ -97,9 +108,11 @@ https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
 **模式：** Image reference · 10 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#product-shots-that-keep-the-label)
+```text
+10 秒竖屏护肤品演示。用图片 1 锁定瓶身轮廓、深蓝瓶盖、金圈和“NOMA / DAILY SERUM / 30 ml”字样。清晨浴室里，女主把瓶子举到脸侧，标签对准镜头，用英语说明她早上只用三滴；再滴一滴到指尖，微笑。结尾是同一只瓶子放在白色大理石上的近景。轻柔原声音乐垫底，收清楚的人声和玻璃轻碰石面的声音。每个镜头的标签都要清晰一致。
+```
 
 https://github.com/user-attachments/assets/dcca41ab-fd13-4ea5-b9ab-2c4a5a86f4aa
 
@@ -111,9 +124,11 @@ https://github.com/user-attachments/assets/dcca41ab-fd13-4ea5-b9ab-2c4a5a86f4aa
 
 **模式：** Image + video reference · 6 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)
+```text
+6 秒参考生视频。图片 1 只定义精华液瓶身及包装细节。视频 1 只提供缓慢绕拍加前推的运镜，不继承其中的人、道具或地点。将瓶子独自放在安静工作室的浅色洞石展台上，左侧柔窗光，后面虚化一瓶干草。深蓝盖、金环及“NOMA DAILY SERUM 30 ml”字样不能变。不要人物，收轻微环境声和一个低音钢琴音。
+```
 
 https://github.com/user-attachments/assets/6a65af40-9c10-4c31-9733-92753b75f240
 
@@ -125,9 +140,11 @@ https://github.com/user-attachments/assets/6a65af40-9c10-4c31-9733-92753b75f240
 
 **模式：** Text · 5 s · 16:9
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)
+```text
+5 秒，16:9，高级产品微距。沾水的黑石面上放一只哑黑耳机盒，盒身带水珠。盖上“NOCTURNE AUDIO”雕刻保持可读，随盖移动，不漂浮。镜头慢慢环绕，反光克制；盒盖只开一次，同步一声清脆咔哒。一镜到底，不添加其他文字。
+```
 
 https://github.com/user-attachments/assets/1394e2d6-5aaf-48b1-b0dc-ad093c5774fc
 
@@ -135,9 +152,11 @@ https://github.com/user-attachments/assets/1394e2d6-5aaf-48b1-b0dc-ad093c5774fc
 
 ### 2.4. 竖屏冰咖啡广告
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://seadanse.com/blog/magi-2-prompt-guide#prompt-3-a-vertical-iced-coffee-ad-in-916)
+```text
+5 秒，9:16 冰咖啡广告。柔和晨光下，湿润白色大理石台面摆一杯深色冰咖啡。0–2 秒慢推，牛奶注入，在杯里盘旋散开；2–5 秒切近景，一只手把挂着冷凝水的杯子举向镜头。让冰块碰杯和倒奶声听得见，接一段平静的英文女声说这是做对了的冷萃，背景配轻柔木吉他。
+```
 
 https://github.com/user-attachments/assets/1a61fd4c-b521-4afb-8eba-24be423cb0e4
 
@@ -151,9 +170,11 @@ https://github.com/user-attachments/assets/1a61fd4c-b521-4afb-8eba-24be423cb0e4
 
 **模式：** Text · 8 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)
+```text
+8 秒竖屏手机 Vlog，北京热闹的早晨。四十多岁的摊主把面糊在圆形鏊子上摊开、打蛋，转头面向镜头。她用普通话打招呼，问要不要加蛋和薄脆，告诉客人五分钟就好。最后她把热煎饼折起来，冲镜头笑。自然朝阳和蒸汽，背景保留鏊子滋滋声、自行车铃和街上人声，对白口型同步。
+```
 
 https://github.com/user-attachments/assets/1f0994c0-7d6e-417d-9758-dec8122dcd8f
 
@@ -165,9 +186,11 @@ https://github.com/user-attachments/assets/1f0994c0-7d6e-417d-9758-dec8122dcd8f
 
 **模式：** Text · 10 s · 9:16
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)
+```text
+10 秒，9:16。晚上，五位朋友在暖色台灯照亮的客厅同步跳舞。手持镜头慢慢绕行，保持五人都在画面内：先同步抖肩，再快速转一次身，最后一起指向镜头大笑。配原创电子舞曲，保留鞋底擦过木地板的声响，末尾五人齐声欢呼。不要换脸，动作节拍对齐。
+```
 
 https://github.com/user-attachments/assets/5693cb0c-d05b-49be-960f-2eadea194d25
 
@@ -179,19 +202,23 @@ https://github.com/user-attachments/assets/5693cb0c-d05b-49be-960f-2eadea194d25
 
 *用同一个四镜头场景对比 MAGI-2 与 Seedance，注意两边分辨率不同。*
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://grokvideomaker.com/magi-2-vs-seedance-2-5#:~:text=The%20exact%20prompt%20used%20for%20both)
+```text
+15 秒分四镜。手绘二维动画，黎明前的积雪山村。六张图分别锁定猎人、吞铁怪、村落、铁锅和两件时代道具，只继承身份、样式和场景，不照搬参考图构图。第一镜，怪物破开厨房拖出铁锅；第二镜，石墙前突然烟雾翻涌，村民作出反应；第三镜，较高处亮起两点红光，长大的怪物从烟中走出；第四镜，怪物撞上墙，前景猎人扑进雪地。深蓝天色、厨房橙光、怪物红光保持统一；纸上粗笔触，黑、红和骨白。只有动作音效，无对白、音乐或文字。
+```
 
 https://github.com/user-attachments/assets/969f6d0b-fb49-4cd5-8733-cdfdf4849d9a
 
-*来源：[@hype_boyo on X](https://x.com/hype_boyo/status/2125480141241622629)*
+*来源：[@hype_boyo on X](https://x.com/hype_boyo/status/2125480141241622629) · [提示词出处](https://grokvideomaker.com/magi-2-vs-seedance-2-5#:~:text=The%20exact%20prompt%20used%20for%20both)*
 
 ### 4.2. 多层剪纸动画
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E5%A4%9A%E5%B1%82%E9%95%82%E7%A9%BA%E5%89%AA%E7%BA%B8)
+```text
+多层中国剪纸动画。透光的米白底纸上叠朱红、金色和靛蓝，每层保留纸纤维、镂空纹样和真实投影。镜头前推，靛蓝纸折立起来化成浪。红纸锦鲤跃出，穿过纸礁与金色闪电，翻越高耸的金纸龙门。锦鲤在最高点散成红金碎片，碎片重新拼成剪纸飞龙；飞龙盘过纸云，飘落的红纸最终拼成对称窗花。保留手工抽帧与纸感，不做光滑三维。用纸声、琵琶扫弦与中国大鼓，无对白。
+```
 
 *来源：[Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E5%A4%9A%E5%B1%82%E9%95%82%E7%A9%BA%E5%89%AA%E7%BA%B8)*
 
@@ -201,18 +228,18 @@ https://github.com/user-attachments/assets/969f6d0b-fb49-4cd5-8733-cdfdf4849d9a
 
 *角色参考、韩语短句和定时起音组成完整短剧分镜。*
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-~~~text
-Duration：15秒
-Aspect ratio：16:9横屏
-~~~
-
-[查看作者完整原提示词](https://x.com/johnAGI168/status/2125578676754366859)
+```text
+15 秒，16:9。图片 1 绑定男主、图片 2 绑定女主；锁定脸、发型、穿着与身高差。秋日下午的欧式石砌高台，女主画左、男主画右，暖金色逆光从画面右后方打来。
+0–2.6 秒：男主肩后拍女主。她仰头笑开，于 0.7–2.2 秒用韩语说「사랑해요」，四个音节自然对口型。
+2.6–5.6 秒：切男主反打近景。他被告白击中，呼吸短暂停一拍；纯器乐电吉他分解和弦在切镜时进入。
+5.6–8.6 秒：回到金光下的女主笑脸。8.6–11.6 秒：男主更紧的特写，表情慢慢变柔但不落泪。11.6–15 秒：固定全景，两人仍在原位对望，远处行人走过石阶。保留电影胶片色调和真实皮肤，不要字幕、标识、额外台词或越轴。
+```
 
 https://github.com/user-attachments/assets/38440daf-eca8-40a9-850d-2abb5d866804
 
-*来源：[@johnAGI168 on X](https://x.com/johnAGI168/status/2125578530272821680)*
+*来源：[@johnAGI168 on X](https://x.com/johnAGI168/status/2125578530272821680) · [提示词出处](https://x.com/johnAGI168/status/2125578676754366859)*
 
 ### 5.2. 巴黎合照开口对话
 
@@ -220,9 +247,11 @@ https://github.com/user-attachments/assets/38440daf-eca8-40a9-850d-2abb5d866804
 
 **模式：** First frame · 8 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)
+```text
+8 秒，图生视频，从提供的桥边合照开始。照片中的两人转头看向对方，服装、脸和场景不变。女方轻声问明年是否还在这里见面；男方微笑回答，还是这座桥、还是这个时间。两人笑起来，她把头靠上他的肩。微风吹起发丝，河面有暖色反光；轻微手持，分别收清楚两人的声音，远处车流和拍岸水声压在对白下面。
+```
 
 https://github.com/user-attachments/assets/a7e714dd-dbfb-494c-a796-a45df45bac64
 
@@ -234,9 +263,11 @@ https://github.com/user-attachments/assets/a7e714dd-dbfb-494c-a796-a45df45bac64
 
 **模式：** Text · 5 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)
+```text
+5 秒，16:9，两镜。0–2 秒：雨夜拉面店外景，檐下纸灯发光，柜台上升着热气。2–5 秒：硬切戴白头带的师傅近景。他把热面向前推，面朝镜头笑，用英语说「Last bowl of the night.」。声音只留雨打雨篷、汤锅冒泡和清楚人声，不要音乐。
+```
 
 https://github.com/user-attachments/assets/b78de4da-94db-43c6-bd5b-2c192f32ccf3
 
@@ -250,9 +281,11 @@ https://github.com/user-attachments/assets/b78de4da-94db-43c6-bd5b-2c192f32ccf3
 
 **模式：** Text · 6 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)
+```text
+6 秒动作测试，午后的水泥滑板公园。车轮高度低机位跟拍 BMX 车手加速上弧坡，腾空连车转一整圈，平稳落地后贴近镜头骑过。镜头快速横跟，不换机位。阳光明亮、影子利落，重心转移自然。让轮胎滚动、落地的短促声和骑过时的风声分别对齐画面。
+```
 
 https://github.com/user-attachments/assets/65de7f92-d45f-43c2-8148-0b2098bffecc
 
@@ -264,9 +297,11 @@ https://github.com/user-attachments/assets/65de7f92-d45f-43c2-8148-0b2098bffecc
 
 **模式：** Text · 8 s
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)
+```text
+8 秒，昏暗的小爵士俱乐部。钢琴先弹出明快短句，鼓手用刷鼓和渐强的镲声回应，低音提琴维持行进低音。琥珀色舞台光下从左往右平稳横移，一镜拍下三人。手指、鼓刷与音符起点要对应，混入轻微杯响，末尾有少量掌声。
+```
 
 https://github.com/user-attachments/assets/15a1590e-747c-4bfd-8e6e-792ab2673595
 
@@ -274,9 +309,11 @@ https://github.com/user-attachments/assets/15a1590e-747c-4bfd-8e6e-792ab2673595
 
 ### 6.3. 四秒猫咪与同期音效
 
-**提示词：**
+**提示词（据原作者版本整理，可复制）：**
 
-[查看作者完整原提示词](https://seadanse.com/blog/magi-2-prompt-guide#prompt-1-a-4-second-cat-with-one-sound-line)
+```text
+4 秒，16:9。橘猫坐在洒着阳光的窗台上，窗外是绿色庭院。保持简单稳定的机位，让猫慢慢转头看向镜头，轻轻叫一声。只收这声猫叫和远处鸟鸣，不用配乐。
+```
 
 https://github.com/user-attachments/assets/cd81c7f6-b877-427e-879b-168e513560c9
 

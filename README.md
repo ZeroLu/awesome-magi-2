@@ -8,6 +8,8 @@ Last updated on 2026-11-26
 
 | [English](./README.md) | [简体中文](./README-zh.md) |
 
+All 19 cases include a prompt you can copy directly. The prompt blocks are faithful adaptations of the published workflows, not verbatim excerpts. The videos show the publishers’ results, not new renders of these adaptations.
+
 > A curated collection of the **best MAGI-2 prompts**, video generation techniques, and resources.
 
 Try on Cyberbara: [Text to Video](https://cyberbara.com/ai-video-generator?entry=magi-2&utm_source=awesome-magi-2&utm_medium=github) · [First Frame / First & Last](https://cyberbara.com/ai-video-generator?entry=magi-2-frames&utm_source=awesome-magi-2&utm_medium=github) · [References](https://cyberbara.com/ai-video-generator?entry=magi-2-reference&utm_source=awesome-magi-2&utm_medium=github)
@@ -32,18 +34,19 @@ Try on Cyberbara: [Text to Video](https://cyberbara.com/ai-video-generator?entry
 
 *Two clean cuts, locked character positions, and Mandarin lines timed by speaker.*
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-~~~text
-Duration: 20秒
-Aspect ratio: 16:9
-~~~
-
-[Read the full original prompt](https://x.com/johnAGI168/status/2125480454518133081)
+```text
+20 s, 16:9. Set a quiet two-person scene by a rain-streaked café window after dark. Keep the man in charcoal on screen left and the woman in a pale trench coat on screen right. Between them: a dark wood table, two white cups, and a folded boarding pass. Light from one warm pendant above, with cool street reflections behind.
+0–7 s: a lightly handheld 35 mm side two-shot. He inches the boarding pass toward her; she keeps her eyes down and traces the cup rim.
+7–14 s: hard cut to her over-the-shoulder portrait. She lifts her eyes after a beat and tells him in Mandarin that he always leaves the decision to her.
+14–20 s: cut back across the same eyeline to his close-up. Push in almost imperceptibly as he admits in Mandarin that he was afraid to ask her to stay. Hold on the silence.
+Sync lips to each speaker. Keep identities, clothes, hand positions and props continuous. Use rain, a faint refrigerator hum and ceramic contact; no other dialogue, music, titles or subtitles.
+```
 
 https://github.com/user-attachments/assets/14584e26-3e6b-469c-ac2a-703439d62958
 
-*Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125480417847353448)*
+*Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125480417847353448) · [Prompt source](https://x.com/johnAGI168/status/2125480454518133081)*
 
 ### 1.2. 30-second ramen stall one-take
 
@@ -51,9 +54,11 @@ https://github.com/user-attachments/assets/14584e26-3e6b-469c-ac2a-703439d62958
 
 **Mode:** Text · 30 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)
+```text
+30 s, one continuous shot. Rainy night at a ramen stall beneath a railway bridge. Begin close to a steaming stockpot as a middle-aged cook in a white towel lifts a bundle of noodles. Drift down the counter to a diner in a yellow raincoat. She orders soy-sauce ramen with an extra egg; he cheerfully offers a generous bowl. Stay with the cooking as he adds broth, pork and egg and slides the bowl to her. Let her laugh into the steam. A train rolls above; paper lanterns sway. Pull away slowly until the whole stall glows in the wet street. Layer rain on canvas, simmering stock, overhead train noise and quiet radio jazz. No cuts.
+```
 
 https://github.com/user-attachments/assets/3375ca70-f549-4709-9cae-23e6fcffe526
 
@@ -65,9 +70,11 @@ https://github.com/user-attachments/assets/3375ca70-f549-4709-9cae-23e6fcffe526
 
 **Mode:** First + last frame · 5 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#pin-the-first-and-last-frame)
+```text
+Supply winter and summer courtyard images as the first and last frames. 5 s, locked wide camera. Match the stone walls and the single cherry tree throughout. Snow recedes, pink blossom spreads across the branches, a few petals fall, and the tree finishes in full green leaf under brighter summer sun. Make the transitions continuous, not abrupt cuts. Fade winter wind into spring birds and then summer cicadas.
+```
 
 https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
@@ -75,17 +82,21 @@ https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
 ### 1.4. City orbit in one take
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=iPhone%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84)
+```text
+A natural-light, phone-camera take of a woman in a coat walking through a city. Start tracking her full figure from the side; ease toward her front, speed into an arc around her back and rise above her. Follow a descending curve toward her face and hold close briefly, then retreat and lift into a high city-wide view. Keep her pace steady; let the camera drive the tempo. Use natural wide-angle perspective without distorting her face, and preserve stronger parallax in the near background than in distant buildings. One take; hide any unavoidable stitch behind a passing foreground object. Keep the music in step with the move.
+```
 
 *Source: [Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=iPhone%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84)*
 
 ### 1.5. Paper plane across connected spaces
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E4%B8%80%E6%9E%B6%E7%99%BD%E7%BA%B8%E9%A3%9E%E6%9C%BA)
+```text
+Follow one white paper plane through a southern school building at sunset in one spatially continuous shot. It glides off the roof into an open corridor, crosses a classroom past desks and a blackboard and exits a wide open window. Swing from above its wings to beneath them as it descends along the exterior. Follow it through the ground-floor lobby, roll the camera once and level out on exit. Skim the grass and then rise as it slows into a girl's open palm. Maintain the same paper plane, physically plausible gliding, and strong near-to-far parallax. Use an actual opening for each passage; never let it go through a wall.
+```
 
 *Source: [Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E4%B8%80%E6%9E%B6%E7%99%BD%E7%BA%B8%E9%A3%9E%E6%9C%BA)*
 
@@ -97,9 +108,11 @@ https://github.com/user-attachments/assets/5e668b3d-a545-4f47-ae81-fea3b2698b0e
 
 **Mode:** Image reference · 10 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#product-shots-that-keep-the-label)
+```text
+10 s vertical product demo. Use Image 1 as the fixed reference for the serum bottle: preserve silhouette, navy cap, gold ring, and the label “NOMA / DAILY SERUM / 30 ml”. A woman holds it at cheek height in a softly lit morning bathroom, label facing camera. In English she explains that her morning routine takes three drops, then dispenses a drop onto her fingertip and smiles. End tight on the same bottle resting on white marble. Soft acoustic backing, clean voice and a small glass-on-stone sound. Keep the label readable in both shots.
+```
 
 https://github.com/user-attachments/assets/dcca41ab-fd13-4ea5-b9ab-2c4a5a86f4aa
 
@@ -111,9 +124,11 @@ https://github.com/user-attachments/assets/dcca41ab-fd13-4ea5-b9ab-2c4a5a86f4aa
 
 **Mode:** Image + video reference · 6 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)
+```text
+6 s reference video. Image 1 supplies the serum bottle and all its real details. Video 1 supplies only its slow orbit with a simultaneous push toward the subject, not its people, framing content or location. Place the bottle solo on a pale travertine pedestal in a quiet studio with soft left-side window light and a blurred vase of dry grass behind it. Keep the navy cap, gold neck ring and “NOMA DAILY SERUM 30 ml” label unchanged. No people; only room tone and a low piano note.
+```
 
 https://github.com/user-attachments/assets/6a65af40-9c10-4c31-9733-92753b75f240
 
@@ -125,9 +140,11 @@ https://github.com/user-attachments/assets/6a65af40-9c10-4c31-9733-92753b75f240
 
 **Mode:** Text · 5 s · 16:9
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)
+```text
+5 s, 16:9, luxury product macro. A matte-black earbud case sits on black stone wet with droplets. Keep the “NOCTURNE AUDIO” engraving legible and anchored to the lid. Orbit slowly with restrained reflections; the lid opens once and makes a clean click. One continuous take, no cuts or other lettering.
+```
 
 https://github.com/user-attachments/assets/1394e2d6-5aaf-48b1-b0dc-ad093c5774fc
 
@@ -135,9 +152,11 @@ https://github.com/user-attachments/assets/1394e2d6-5aaf-48b1-b0dc-ad093c5774fc
 
 ### 2.4. Vertical iced-coffee ad
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://seadanse.com/blog/magi-2-prompt-guide#prompt-3-a-vertical-iced-coffee-ad-in-916)
+```text
+5 s, 9:16 iced-coffee spot. A tall glass of ice and dark coffee sits on wet white marble under soft morning light. 0–2 s: move closer as a stream of milk draws curling trails in the glass. 2–5 s: cut tight as a hand lifts the dripping glass toward the lens. Mix ice taps and the gentle pour under a short, calm English female line about cold brew, with quiet acoustic guitar in back.
+```
 
 https://github.com/user-attachments/assets/1a61fd4c-b521-4afb-8eba-24be423cb0e4
 
@@ -151,9 +170,11 @@ https://github.com/user-attachments/assets/1a61fd4c-b521-4afb-8eba-24be423cb0e4
 
 **Mode:** Text · 8 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)
+```text
+8 s vertical phone vlog on a busy Beijing morning. A cheerful jianbing vendor in her forties spreads batter on a circular griddle, cracks an egg and looks into the camera. Have her greet the viewer in Mandarin and offer an egg and extra crisp filling, ready in five minutes. She folds the hot crepe and smiles. Use natural sun and visible steam, with grill hiss, bike bells and street voices behind her. Keep the spoken Mandarin and lip movement in sync.
+```
 
 https://github.com/user-attachments/assets/1f0994c0-7d6e-417d-9758-dec8122dcd8f
 
@@ -165,9 +186,11 @@ https://github.com/user-attachments/assets/1f0994c0-7d6e-417d-9758-dec8122dcd8f
 
 **Mode:** Text · 10 s · 9:16
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)
+```text
+10 s, 9:16. Five friends dance together in a warmly lit living room at night. In one handheld circular move, keep all five visible while they bounce their shoulders together, make one quick turn and then point toward camera and laugh. Add an original upbeat electronic rhythm, shoes squeaking against the wood floor, and a group cheer at the end. Maintain each friend's identity and clean synchronized timing.
+```
 
 https://github.com/user-attachments/assets/5693cb0c-d05b-49be-960f-2eadea194d25
 
@@ -179,19 +202,23 @@ https://github.com/user-attachments/assets/5693cb0c-d05b-49be-960f-2eadea194d25
 
 *A paired MAGI-2 and Seedance test of hand-painted continuity; their output resolutions differ.*
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://grokvideomaker.com/magi-2-vs-seedance-2-5#:~:text=The%20exact%20prompt%20used%20for%20both)
+```text
+15 s, four shots. Set hand-painted 2D action in a snowbound mountain village before dawn. Use six reference images to lock the hunter, iron-eating monster, village, cauldron, and the two period props; take the style and identities without copying reference framing. 1: the monster breaks into a kitchen and pulls out the iron pot. 2: a burst of smoke obscures the stone wall as the villagers react. 3: two red eyes appear higher in the smoke; the larger monster steps out. 4: it hits the wall and the foreground hunter dives into the snow. Keep a dark-blue sky, fire-orange from the kitchen and a red glow from the monster. Painted grain, black/red/bone-white palette, continuous direction of light. Use action sounds only, with no text, music or spoken lines.
+```
 
 https://github.com/user-attachments/assets/969f6d0b-fb49-4cd5-8733-cdfdf4849d9a
 
-*Source: [@hype_boyo on X](https://x.com/hype_boyo/status/2125480141241622629)*
+*Source: [@hype_boyo on X](https://x.com/hype_boyo/status/2125480141241622629) · [Prompt source](https://grokvideomaker.com/magi-2-vs-seedance-2-5#:~:text=The%20exact%20prompt%20used%20for%20both)*
 
 ### 4.2. Layered cut-paper animation
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E5%A4%9A%E5%B1%82%E9%95%82%E7%A9%BA%E5%89%AA%E7%BA%B8)
+```text
+Layered Chinese paper-cut animation. Use translucent ivory paper, hand-cut vermilion, gold and indigo sheets, visible fibers, fine pierced outlines and real shadows between layers. Push in as folds of indigo rise into waves. A red paper carp leaps, threads the paper rocks and lightning, and clears an ornate gold gate. At the crest, red and gold fragments burst outward and knit into a flying paper dragon. It circles above cut-paper clouds as falling scraps form a symmetrical window decoration. Keep the hand-made stutter and paper texture; no glossy CGI. Paper rustle, quick pipa strums and a Chinese drum; no dialogue.
+```
 
 *Source: [Kazik / 数字生命卡兹克](https://finance.sina.com.cn/cj/2026-11-25/doc-inizxaum9579112.shtml#:~:text=%E5%A4%9A%E5%B1%82%E9%95%82%E7%A9%BA%E5%89%AA%E7%BA%B8)*
 
@@ -201,18 +228,18 @@ https://github.com/user-attachments/assets/969f6d0b-fb49-4cd5-8733-cdfdf4849d9a
 
 *A staged romance scene with character references, a Korean line, and a timed music entrance.*
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-~~~text
-Duration：15秒
-Aspect ratio：16:9横屏
-~~~
-
-[Read the full original prompt](https://x.com/johnAGI168/status/2125578676754366859)
+```text
+15 s, 16:9. Image 1 is the man and Image 2 the woman; their faces, hair, outfits and height difference must stay fixed. Put her on screen left and him on screen right on a golden autumn afternoon above an old stone street. Keep the light coming from behind the right side.
+0–2.6 s: from his shoulder, she looks up, breaks into a big smile and says “사랑해요” in Korean at 0.7–2.2 s. Match the four syllables to natural lip movement.
+2.6–5.6 s: reverse close-up, he holds his breath for a beat, startled. An instrumental electric-guitar arpeggio enters on the cut.
+5.6–8.6 s: return to her smile in the sunlight. 8.6–11.6 s: tighter on him, his expression softens without tears. 11.6–15 s: locked wide shot, both still in place as distant pedestrians move on the steps. Film grain, real skin, no subtitles, logos, extra speech or swapped eyelines.
+```
 
 https://github.com/user-attachments/assets/38440daf-eca8-40a9-850d-2abb5d866804
 
-*Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125578530272821680)*
+*Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2125578530272821680) · [Prompt source](https://x.com/johnAGI168/status/2125578676754366859)*
 
 ### 5.2. Paris portrait brought to life
 
@@ -220,9 +247,11 @@ https://github.com/user-attachments/assets/38440daf-eca8-40a9-850d-2abb5d866804
 
 **Mode:** First frame · 8 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)
+```text
+8 s, image-to-video from the supplied bridge portrait. The pictured couple turns toward each other, without changing clothes or faces. She asks whether they will meet here again next year; he smiles and says they will come back to this same bridge at the same time. They laugh, and she rests her head on his shoulder. Let a breeze lift her hair and warm reflections move on the river. Use a light handheld feel and a clear voice for each speaker over faraway traffic and water by the bank.
+```
 
 https://github.com/user-attachments/assets/a7e714dd-dbfb-494c-a796-a45df45bac64
 
@@ -234,9 +263,11 @@ https://github.com/user-attachments/assets/a7e714dd-dbfb-494c-a796-a45df45bac64
 
 **Mode:** Text · 5 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)
+```text
+5 s, 16:9, two shots. 0–2 s: wide rainy-night view of a tiny noodle shop, a lit lantern under the awning and steam over the counter. 2–5 s: cut to the cook in a white headband. He slides a hot bowl forward, smiles at camera and says, “Last bowl of the night.” Rain, softly bubbling stock and a clear voice. No music.
+```
 
 https://github.com/user-attachments/assets/b78de4da-94db-43c6-bd5b-2c192f32ccf3
 
@@ -250,9 +281,11 @@ https://github.com/user-attachments/assets/b78de4da-94db-43c6-bd5b-2c192f32ccf3
 
 **Mode:** Text · 6 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)
+```text
+6 s motion test, afternoon at a concrete skatepark. Follow a BMX rider from wheel height as they gain speed up the quarter pipe, turn one full circle in the air with the bike, land smoothly, and pass close to the lens. Pan quickly with the ride rather than jumping to a new camera. Bright sun, firm shadows, realistic weight transfer. Sync tire rumble and landing impact with the picture, then let wind pass as the bike rides off.
+```
 
 https://github.com/user-attachments/assets/65de7f92-d45f-43c2-8148-0b2098bffecc
 
@@ -264,9 +297,11 @@ https://github.com/user-attachments/assets/65de7f92-d45f-43c2-8148-0b2098bffecc
 
 **Mode:** Text · 8 s
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)
+```text
+8 s in a dim jazz club. A pianist plays a bright phrase, the drummer answers with brushes and a cymbal swell, and the upright bassist keeps a walking line. Track smoothly from left to right under warm amber stage light. Keep hands and instrument attacks synchronized with the original trio performance; place an occasional glass clink in the room and light applause at the end.
+```
 
 https://github.com/user-attachments/assets/15a1590e-747c-4bfd-8e6e-792ab2673595
 
@@ -274,9 +309,11 @@ https://github.com/user-attachments/assets/15a1590e-747c-4bfd-8e6e-792ab2673595
 
 ### 6.3. Four-second cat with foley
 
-**Prompt:**
+**Copy-ready prompt (adapted from source):**
 
-[Read the full original prompt](https://seadanse.com/blog/magi-2-prompt-guide#prompt-1-a-4-second-cat-with-one-sound-line)
+```text
+4 s, 16:9. On a sunlit sill overlooking greenery, an orange cat slowly looks toward the lens and gives one quiet meow. Keep it in a simple, steady composition. Sound: the cat’s little voice and far-off birds; no music.
+```
 
 https://github.com/user-attachments/assets/cd81c7f6-b877-427e-879b-168e513560c9
 
