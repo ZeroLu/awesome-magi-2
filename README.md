@@ -35,6 +35,7 @@ The publishers identify these examples as runs of the flagship MAGI-2 and show t
 | --- | --- | --- | --- |
 | Skincare presenter and label | Image reference · 10 s | A product photo anchors the hands-on demo and the closing label shot. | [CreateVision](https://createvision.ai/magi-2#product-shots-that-keep-the-label) |
 | Transfer a camera arc to a packshot | Image + video reference · 6 s | One reference controls the bottle, another the camera path. | [CreateVision](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip) |
+| Earbud case macro reveal | Text · 5 s · 16:9 | Test engraved lettering, a slow orbit, and a distinct opening sound. | [A.I. Creator U.](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy) |
 
 ### Social & UGC
 
@@ -80,6 +81,7 @@ Original, **not rendered**. No outputs are claimed. For templates that require i
 ## Resources and contributing
 
 - [Sand AI launch notes](https://sand.ai/blog/magi-2/) · [Native API](https://platform.sand.ai/docs/create-generation/) · [First/last frames via Ark compatibility](https://platform.sand.ai/docs/ark-generations/)
+- [Sand AI’s pretraining probe](https://sand.ai/blog/magi-2/) (section 5): the Sudoku demo used the 480B pretraining checkpoint with prompt enhancement off. It is not a guarantee about the hosted model.
 - [Higgsfield guide](https://higgsfield.ai/blog/higgsfield-magi-2) · [Kie API example](https://docs.kie.ai/market/magi-2/text-to-video)
 - Input limits, audio controls and prompt syntax are provider-specific. Do not label Preview outputs as flagship results.
 

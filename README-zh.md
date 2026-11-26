@@ -35,6 +35,7 @@
 | --- | --- | --- | --- |
 | 护肤品口播与标签 | Image reference · 10 s | 以商品照约束瓶身，最后用特写展示标签。 | [CreateVision](https://createvision.ai/magi-2#product-shots-that-keep-the-label) |
 | 把参考运镜转移到商品镜头 | Image + video reference · 6 s | 一份参考控制瓶身，另一份参考控制运镜。 | [CreateVision](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip) |
+| 耳机盒开盖特写 | Text · 5 s · 16:9 | 测试小字标签、慢速环绕和同步开盖声。 | [A.I. Creator U.](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy) |
 
 ### 社媒与 UGC
 
@@ -80,6 +81,7 @@
 ## 资源与投稿
 
 - [Sand AI 发布说明](https://sand.ai/blog/magi-2/) · [原生 API](https://platform.sand.ai/docs/create-generation/) · [首尾帧 API（Ark 兼容）](https://platform.sand.ai/docs/ark-generations/)
+- [Sand AI 的预训练研究探针](https://sand.ai/blog/magi-2/)（第 5 节）：数独案例使用关闭提示增强的 480B 预训练模型，并非线上正式版能力保证。
 - [Higgsfield 使用指南](https://higgsfield.ai/blog/higgsfield-magi-2) · [Kie API 示例](https://docs.kie.ai/market/magi-2/text-to-video)
 - 参考素材数、提示词长度和音频选项以实际平台文档为准。不要把 Preview 结果当正式版结果。
 
