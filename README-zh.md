@@ -14,41 +14,183 @@
 
 以下是发布者标明使用正式版 MAGI-2 运行、并公开了原提示词的案例。点击原文查看提示词和样片；素材仅链接原出处。
 
-### 电影感与长镜头
+每个案例单独成卡。外部作品保留原出处；卡片里的「可复制改写」是另写的模板，不冒充原作者输入。
 
-| 案例 | 模式与时长 | 关注点 | 原提示词与结果 |
-| --- | --- | --- | --- |
-| 30 秒拉面摊一镜到底 | Text · 30 s | 用一个长镜头串起对话、上菜和经过的列车。 | [CreateVision](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.) |
-| 庭院三季延时 | First + last frame · 5 s | 固定机位，用两张首尾帧控制季节变化。 | [CreateVision](https://createvision.ai/magi-2#pin-the-first-and-last-frame) |
 
-### 对白与短剧
+### 1. 电影感与长镜头
 
-| 案例 | 模式与时长 | 关注点 | 原提示词与结果 |
-| --- | --- | --- | --- |
-| 巴黎合照开口对话 | First frame · 8 s | 从一张照片开始，让两人按顺序对话。 | [CreateVision](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin) |
-| 普通话街头小吃 vlog | Text · 8 s | 摊主用普通话出镜，保留街道环境声。 | [CreateVision](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video) |
-| 今晚最后一碗 | Text · 5 s | 两段明确的镜头、单句对白，不加音乐。 | [Seadanse](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night) |
+#### 1.1. 30 秒拉面摊一镜到底
 
-### 广告与商品演示
+- **模式:** Text · 30 s
+- **看点:** 用一个长镜头串起对话、上菜和经过的列车。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#:~:text=One%20continuous%2030-second%20take%2C%20no%20cuts.)
 
-| 案例 | 模式与时长 | 关注点 | 原提示词与结果 |
-| --- | --- | --- | --- |
-| 护肤品口播与标签 | Image reference · 10 s | 以商品照约束瓶身，最后用特写展示标签。 | [CreateVision](https://createvision.ai/magi-2#product-shots-that-keep-the-label) |
-| 把参考运镜转移到商品镜头 | Image + video reference · 6 s | 一份参考控制瓶身，另一份参考控制运镜。 | [CreateVision](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip) |
-| 耳机盒开盖特写 | Text · 5 s · 16:9 | 测试小字标签、慢速环绕和同步开盖声。 | [A.I. Creator U.](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy) |
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
 
-### 社媒与 UGC
+```text
+One unbroken overhead-to-eye-level move in a quiet station café shortly before closing. Start on coffee dripping into a ceramic mug, then slide along the counter as a passenger sets down a folded train ticket. The attendant says, “You still have time.” Pull back as a departing train passes the window. Sound: coffee machine, one line of dialogue, swish of the train. No music or subtitles.
+```
 
-| 案例 | 模式与时长 | 关注点 | 原提示词与结果 |
-| --- | --- | --- | --- |
-| 客厅群舞 | Text · 10 s · 9:16 | 竖屏社媒视频，控制单一运镜和几个关键声音。 | [CircleAIDance](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance) |
+</details>
 
-### 动作、动画与声音
+#### 1.2. 庭院三季延时
 
-| 案例 | 模式与时长 | 关注点 | 原提示词与结果 |
-| --- | --- | --- | --- |
-| BMX 高速动作测试 | Text · 6 s | 用短片检查高速跟拍、落地和触地音效。 | [CreateVision](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark) |
-| 爵士三重奏同步测试 | Text · 8 s | 单次横移，配合可与画面对照的多段声音事件。 | [CreateVision](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club) |
+- **模式:** First + last frame · 5 s
+- **看点:** 固定机位，用两张首尾帧控制季节变化。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#pin-the-first-and-last-frame)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Use the supplied winter and summer images as the exact first and last frames. Lock the camera and preserve the roofline and tree placement. Snow sags off the branches; buds and pale flowers emerge, then give way to green leaves. Keep the seasonal transition smooth with no jump cuts. Sound: wind giving way to birds.
+```
+
+</details>
+
+### 2. 对白与短剧
+
+#### 2.1. 巴黎合照开口对话
+
+- **模式:** First frame · 8 s
+- **看点:** 从一张照片开始，让两人按顺序对话。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#dialogue-with-lip-sync-in-english-or-mandarin)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Use the uploaded portrait as the first frame. Preserve both faces, coats, and river-view background. The person on the left says, “Is this our stop?” The person on the right smiles and says, “One more bridge.” Only the active speaker’s lips move. Keep the camera nearly still. Sound: close dialogue and river ambience.
+```
+
+</details>
+
+#### 2.2. 普通话街头小吃 vlog
+
+- **模式:** Text · 8 s
+- **看点:** 摊主用普通话出镜，保留街道环境声。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#:~:text=Vertical%20street-food%20video)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Vertical handheld market profile. A vendor places a fresh pastry in a paper sleeve, looks up, and says in Mandarin, “刚出炉，小心烫。” Hold on the vendor’s expression for the final second. Sound: close voice, light street chatter, and the crinkle of the sleeve. No narration or captions.
+```
+
+</details>
+
+#### 2.3. 今晚最后一碗
+
+- **模式:** Text · 5 s
+- **看点:** 两段明确的镜头、单句对白，不加音乐。
+- **原作者提示词／样片:** [Seadanse](https://seadanse.com/blog/how-to-use-magi-2#:~:text=Last%20bowl%20of%20the%20night)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+0–2s: Wide shot of a corner bakery at closing time, water running down the front window. 2–5s: Hard cut to the baker sliding the final loaf across the counter, saying, “This one's for you.” Sound: rain outside, paper on wood, and clear speech. No music.
+```
+
+</details>
+
+### 3. 广告与商品演示
+
+#### 3.1. 护肤品口播与标签
+
+- **模式:** Image reference · 10 s
+- **看点:** 以商品照约束瓶身，最后用特写展示标签。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#product-shots-that-keep-the-label)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Use the product photo to lock the exact container shape and label. In a vertical frame, a presenter lifts the product beside the face and says, “Here's how I use it.” Cut to the bottle on a pale counter at the end, front label facing the lens. Keep all printed words and colors as in the photo. Sound: voice and a small tap on the counter.
+```
+
+</details>
+
+#### 3.2. 把参考运镜转移到商品镜头
+
+- **模式:** Image + video reference · 6 s
+- **看点:** 一份参考控制瓶身，另一份参考控制运镜。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#borrow-the-camera-move-from-another-clip)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Use Image 1 for the appearance of the product and Video 1 only for the camera trajectory. Stage the item alone on a slate plinth. Recreate the slow arc followed by a shallow push-in; do not borrow the reference video’s location or soundtrack. End on a steady readable product close-up. Sound: soft room tone.
+```
+
+</details>
+
+#### 3.3. 耳机盒开盖特写
+
+- **模式:** Text · 5 s · 16:9
+- **看点:** 测试小字标签、慢速环绕和同步开盖声。
+- **原作者提示词／样片:** [A.I. Creator U.](https://aicreatoru.com/blog/how-to-use-magi-2#magi-2-prompts-you-can-copy)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Macro product setup with a matte travel tin on a smooth slate surface. A tiny embossed brand mark faces camera. A slow half-arc reveals the hinge; the lid opens with one soft click and stops at 45 degrees. Keep the mark and body geometry stable. Sound: one close mechanical click and low room tone.
+```
+
+</details>
+
+### 4. 社媒与 UGC
+
+#### 4.1. 客厅群舞
+
+- **模式:** Text · 10 s · 9:16
+- **看点:** 竖屏社媒视频，控制单一运镜和几个关键声音。
+- **原作者提示词／样片:** [CircleAIDance](https://circleaidance.com/magi-2-ai-video-generator#:~:text=Five%20friends%2C%20one%20living-room%20dance)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Four friends make up a short dance in a sunlit studio. In vertical handheld framing, track a single half-circle as they take two side steps, clap together once, then break into laughter. Keep the same four people throughout. Sound: original light percussion, the clap on contact, and voices at the end.
+```
+
+</details>
+
+### 5. 动作、动画与声音
+
+#### 5.1. BMX 高速动作测试
+
+- **模式:** Text · 6 s
+- **看点:** 用短片检查高速跟拍、落地和触地音效。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#:~:text=A%20BMX%20rider%20at%20a%20concrete%20skatepark)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+Follow a BMX rider at low wheel height as the rider rolls up one ramp, briefly leaves the ground, lands, and coasts out of frame. Preserve one consistent direction and trajectory; do not cut. Sound: tires on concrete, one sharp landing, then fading wheel noise.
+```
+
+</details>
+
+#### 5.2. 爵士三重奏同步测试
+
+- **模式:** Text · 8 s
+- **看点:** 单次横移，配合可与画面对照的多段声音事件。
+- **原作者提示词／样片:** [CreateVision](https://createvision.ai/magi-2#:~:text=A%20jazz%20trio%20in%20a%20small%20dim%20club)
+
+<details>
+<summary>展开可复制的改写模板（未实测，与原样片不对应）</summary>
+
+```text
+An upright bassist, a pianist, and a brush drummer play a restrained phrase in a small studio. Slide the camera slowly left to right. Give each musician one distinct audible moment, with the drummer's soft strike aligned to contact. Sound: live instruments in a quiet room, no voiceover or backing track.
+```
+
+</details>
 
 ## 官方文档与演示
 

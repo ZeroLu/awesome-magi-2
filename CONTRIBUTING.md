@@ -7,3 +7,5 @@ A useful submission answers: where did the prompt come from, which MAGI-2 versio
 3. Distinguish a published run, an official demo without the original prompt, a documentation sample, and an untested original template. Disclose edits and prompt enhancement when known.
 4. Do not mirror third-party files or full prompts without permission. Do not submit private media, private asset links or identifiers, secrets, or content you lack consent to share.
 5. Keep both README indexes in sync. Add self-authored templates under `prompts/`; attach or link a result only if it is authorized and actually from that prompt.
+
+For a directly playable video, use an original or explicitly licensed output. Put the native GitHub video attachment URL on its own line under the related prompt, and retain its author credit. Unlicensed videos remain linked at their source.
