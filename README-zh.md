@@ -1,6 +1,6 @@
 Last updated on 2026-11-27
 
-![Awesome MAGI-2](assets/banner.svg)
+![Awesome MAGI-2: Hand-picked premium video prompts from top creators, daily updated](assets/magi-2-cover.png)
 
 # Awesome MAGI-2 🎬
 
