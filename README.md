@@ -8,7 +8,7 @@ Last updated on 2026-11-27
 
 | [English](./README.md) | [简体中文](./README-zh.md) |
 
-All 19 cases include a prompt you can copy directly. The prompt blocks are faithful adaptations of the published workflows, not verbatim excerpts. The videos show the publishers’ results, not new renders of these adaptations.
+All 23 cases include a prompt you can copy directly. The prompt blocks are faithful adaptations of the published workflows, not verbatim excerpts. The videos show the publishers’ results, not new renders of these adaptations.
 
 > A curated collection of the **best MAGI-2 prompts**, video generation techniques, and resources.
 
