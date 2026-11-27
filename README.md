@@ -1,4 +1,4 @@
-Last updated on 2026-11-26
+Last updated on 2026-11-27
 
 ![Awesome MAGI-2](assets/banner.svg)
 
@@ -16,6 +16,8 @@ Try on Cyberbara: [Text to Video](https://cyberbara.com/ai-video-generator?entry
 
 ## 📖 Table of Contents
 
+**[Most-viewed creator picks](#most-viewed-creator-picks)**
+
 1. [Cinematic Film Styles](#1-cinematic-film-styles)
 2. [Advertising & Commercial Branding](#2-advertising--commercial-branding)
 3. [UGC Style](#3-ugc-style)
@@ -25,6 +27,76 @@ Try on Cyberbara: [Text to Video](https://cyberbara.com/ai-video-generator?entry
 7. [Resources](#7-resources)
 8. [Contributing](#8-contributing)
 9. [Star History](#9-star-history)
+
+---
+
+## Most-viewed creator picks
+
+Ranked by publicly reported X post views checked on November 27, 2026, not video play counts. Click a poster for the creator’s original clip; copy prompts directly below.
+
+### 0.1. A Father's Little Chef
+
+**45.9K X post views** · @AIwithkhan · Higgsfield creator partnership
+
+*An oversized chef hat and a burnt pancake turn a kitchen mishap into a warm family comedy.*
+
+[![Play A Father's Little Chef](https://pbs.twimg.com/amplify_video_thumb/2125522723820724224/img/IUjb3rXQs4XsOrlO.jpg)](https://x.com/AIwithkhan/status/2125522773258952776)
+
+**Copy-ready prompt (adapted from source):**
+
+```text
+Create a 30-second 3D animated family comedy in a softly lit Japanese kitchen. Keep the little girl’s short black bob, pink pajamas, and oversized chef hat consistent. She tries to surprise her father with pancakes: jump from tiny hands mixing batter to flour spraying across the counter, then chocolate smeared on her cheek. Make the pancake uneven and slightly burnt. She serves it proudly; her father takes a bite, hides his surprise, and encourages her. Finish with both parents laughing as she poses like a professional chef. Use warm morning light, expressive faces, and audible bowl, whisk, and skillet sounds. Let the little girl proudly address her father in English before he tastes it.
+```
+
+*Source: [Creator’s post, video and prompt](https://x.com/AIwithkhan/status/2125522773258952776) · [Post-view snapshot source](https://teapawt.net/AIwithkhan)*
+
+### 0.2. Tiny Delivery Rider, Giant City
+
+**37.6K X post views** · @AIwithSynthia · Higgsfield creator partnership
+
+*Hand-drawn animation meets real-world scale in a playful New York delivery run.*
+
+[![Play Tiny Delivery Rider, Giant City](https://pbs.twimg.com/amplify_video_thumb/2125574401056002049/img/_pGviTq2HlJRhXko.jpg)](https://x.com/AIwithSynthia/status/2125574502285529485)
+
+**Copy-ready prompt (adapted from source):**
+
+```text
+30 seconds, 16:9. Composite a miniature hand-drawn courier with black hair, pink hoodie and red delivery bag into a photoreal New York street. Shoot from her scale: a crosswalk gust pushes her sideways, a giant shoe and a newsstand become climbing and sliding obstacles, and a runaway pickle rolls past the hot-dog stand. Float her across a puddle on a coffee lid. Let a gust lift her by her open delivery bag, then drop her onto a pizza slice. A real hand unexpectedly lifts the slice with her still hanging on. Maintain the same inked silhouette and city lighting throughout. Favor ankle-height macro views and exaggerated but readable motion. Use traffic, water splashes, wind and comic impacts without dialogue.
+```
+
+*Source: [Creator’s post, video and prompt](https://x.com/AIwithSynthia/status/2125574502285529485) · [Post-view snapshot source](https://www.creatok.ai/en/magi-2-prompts/tiny-delivery-rider)*
+
+### 0.3. NYC Skateboarder and Cat
+
+**32.7K X post views** · @AIwithSynthia · Higgsfield creator partnership
+
+*A wheel-height chase camera keeps the skater and her cat in sync across the city.*
+
+[![Play NYC Skateboarder and Cat](https://pbs.twimg.com/amplify_video_thumb/2125649995223445504/img/JE1drsBQTlnd7A2V.jpg)](https://x.com/AIwithSynthia/status/2125650088341246435)
+
+**Copy-ready prompt (adapted from source):**
+
+```text
+30 seconds, 16:9, semi-realistic anime. Use the supplied character image to lock the skater’s face, hair and proportions. Keep her red-and-white sports outfit, beige cap and small ginger-and-white cat consistent. Begin at wheel height through Times Square traffic. She picks up a coffee from a cart without slowing, then rides a graffiti wall as the cat jumps beside her. Sweep across Brooklyn Bridge and cut to the industrial tracks: rail grind, a passing subway, and a matched leap down into a parking lot. End low with the pair speeding toward the skyline. Use quick pans, crisp cuts and occasional aerial tracking, but preserve direction and the cat’s real scale. Use wheel rumble, rail grind, taxis, city voices and wind; no music.
+```
+
+*Source: [Creator’s post, video and prompt](https://x.com/AIwithSynthia/status/2125650088341246435) · [Post-view snapshot source](https://www.creatok.ai/en/magi-2-prompts/nyc-skateboard-and-cat)*
+
+### 0.4. A Reunion Across Two Worlds
+
+**28.2K X post views** · @AIwithkhan · Higgsfield creator partnership
+
+*One match cut carries the same hand position from a ruined mansion to a bright garden.*
+
+[![Play A Reunion Across Two Worlds](https://pbs.twimg.com/amplify_video_thumb/2125640216140775424/img/qacWXGG-a6NKwrvS.jpg)](https://x.com/AIwithkhan/status/2125640284830835088)
+
+**Copy-ready prompt (adapted from source):**
+
+```text
+30-second photoreal short told in eight shots. In a ruined manor, a tearful woman recognizes the injured man she was about to shoot and lowers her bow. Show him by a broken pillar from over her shoulder, then let her kneel, touch his cheek and hold him. Cut in to their joined hands on dusty marble. After a tear hits their fingers, hard cut on that exact framing and hand position: in warm sunlight, they are clean and uninjured in a garden. Follow the same couple along a flowering path; close in on their exchanged look, then arc gently around their kiss and hold on the embrace. Faces and proportions match across the cut. Shoot natural performances with soft grain; use breaths, footsteps, fabric and garden birds, no score.
+```
+
+*Source: [Creator’s post, video and prompt](https://x.com/AIwithkhan/status/2125640284830835088) · [Post-view snapshot source](https://www.creatok.ai/en/magi-2-prompts/cinematic-reunion)*
 
 ---
 
