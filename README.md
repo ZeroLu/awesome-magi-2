@@ -32,7 +32,7 @@ Try on Cyberbara: [Text to Video](https://cyberbara.com/ai-video-generator?entry
 
 ## Most-viewed creator picks
 
-Ranked by publicly reported X post views checked on November 27, 2026, not video play counts. Click a poster for the creator’s original clip; copy prompts directly below.
+Ranked by publicly reported X post views checked on November 27, 2026, not video play counts. Each case includes the original author post and a copyable prompt.
 
 ### 0.1. A Father's Little Chef
 
