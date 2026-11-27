@@ -1,4 +1,4 @@
-Last updated on 2026-11-26
+Last updated on 2026-11-27
 
 ![Awesome MAGI-2](assets/banner.svg)
 
@@ -8,13 +8,15 @@ Last updated on 2026-11-26
 
 | [English](./README.md) | [简体中文](./README-zh.md) |
 
-下方 19 个案例均附可直接复制的提示词。提示词根据原作者公开内容整理，不是逐字转载；示例视频为发布者的成片，不是本站重新生成。
+下方 23 个案例均附可直接复制的提示词。提示词根据原作者公开内容整理，不是逐字转载；示例视频为发布者的成片，不是本站重新生成。
 
 > 精选 MAGI-2 提示词、生成技巧和参考资源，按场景分类，每条保留原作者出处。
 
 在 Cyberbara 试用: [文生视频](https://cyberbara.com/ai-video-generator?entry=magi-2&utm_source=awesome-magi-2&utm_medium=github) · [首帧／首尾帧](https://cyberbara.com/ai-video-generator?entry=magi-2-frames&utm_source=awesome-magi-2&utm_medium=github) · [参考生视频](https://cyberbara.com/ai-video-generator?entry=magi-2-reference&utm_source=awesome-magi-2&utm_medium=github)
 
 ## 📖 目录
+
+**[热门创作者案例](#热门创作者案例)**
 
 1. [电影风格](#1-电影风格)
 2. [商业广告与品牌](#2-商业广告与品牌)
@@ -25,6 +27,76 @@ Last updated on 2026-11-26
 7. [资源](#7-资源)
 8. [贡献](#8-贡献)
 9. [Star 历史](#9-star-历史)
+
+---
+
+## 热门创作者案例
+
+按 2026 年 11 月 27 日查到的公开 X 帖子浏览量快照从高到低排列，不是视频播放次数。点击封面看作者原视频；提示词直接在本页复制。
+
+### 0.1. 小厨师给爸爸做煎饼
+
+**约 4.6 万 X 帖子浏览** · @AIwithkhan · Higgsfield 创作者合作
+
+*一顶太大的厨师帽、一张煎焦的饼，串起一段温暖的家庭喜剧。*
+
+[![播放小厨师给爸爸做煎饼](https://pbs.twimg.com/amplify_video_thumb/2125522723820724224/img/IUjb3rXQs4XsOrlO.jpg)](https://x.com/AIwithkhan/status/2125522773258952776)
+
+**提示词（据原作者版本整理，可复制）:**
+
+```text
+30 秒日式 3D 家庭喜剧。清晨厨房光线柔暖，女孩一直留着黑色短发，穿粉色睡衣，戴一顶太大的厨师帽。她想偷偷给爸爸做煎饼：从小手搅面糊切到面粉洒满台面，再切到她脸上沾了巧克力。端上桌的煎饼形状不规则，还有点焦。她用英语骄傲地说是给爸爸做的；爸爸尝一口，掩饰惊讶，笑着鼓励她。结尾是女孩摆出大厨姿势，父母一起笑。保留碗、搅拌器和平底锅的声音，用细微的表情变化表现喜感。
+```
+
+*来源: [作者原帖、视频和提示词](https://x.com/AIwithkhan/status/2125522773258952776) · [浏览量快照来源](https://teapawt.net/AIwithkhan)*
+
+### 0.2. 巨城里的小小送货员
+
+**约 3.8 万 X 帖子浏览** · @AIwithSynthia · Higgsfield 创作者合作
+
+*把手绘小人放进写实纽约，让城市日常物件变成闯关道具。*
+
+[![播放巨城里的小小送货员](https://pbs.twimg.com/amplify_video_thumb/2125574401056002049/img/_pGviTq2HlJRhXko.jpg)](https://x.com/AIwithSynthia/status/2125574502285529485)
+
+**提示词（据原作者版本整理，可复制）:**
+
+```text
+30 秒，16:9。把黑发、粉色连帽衫、红色送餐包的手绘迷你女孩合成进写实纽约街景。用她的尺度拍：斑马线上的风几乎把她吹走，巨鞋和报摊成为攀爬滑行的障碍，热狗摊旁滚来一片巨大的腌黄瓜。她坐咖啡杯盖渡过水洼，又撑开送餐包借风飞起，降落在巨型披萨上。现实中的手突然拿起披萨，她惊讶地挂在边缘。全片锁定手绘轮廓、服装和环境光，贴地呈现夸张但清晰的尺度和动作。收交通、水花、风和喜剧音效，不要对白。
+```
+
+*来源: [作者原帖、视频和提示词](https://x.com/AIwithSynthia/status/2125574502285529485) · [浏览量快照来源](https://www.creatok.ai/en/magi-2-prompts/tiny-delivery-rider)*
+
+### 0.3. 纽约滑板手和猫
+
+**约 3.3 万 X 帖子浏览** · @AIwithSynthia · Higgsfield 创作者合作
+
+*贴地追拍，让滑板手和猫跨街区保持同步。*
+
+[![播放纽约滑板手和猫](https://pbs.twimg.com/amplify_video_thumb/2125649995223445504/img/JE1drsBQTlnd7A2V.jpg)](https://x.com/AIwithSynthia/status/2125650088341246435)
+
+**提示词（据原作者版本整理，可复制）:**
+
+```text
+30 秒，16:9，半写实动漫。从参考图锁定滑板女孩的脸、发型和比例；红白运动装、米色帽子、橘白小猫始终一致。从轮轴高度追进时代广场，她穿过出租车，从咖啡摊顺手拿杯咖啡，不减速；接着踩上涂鸦墙跳起，小猫同步跃过。镜头掠过布鲁克林大桥，切到工业区：磨杆、地铁擦身而过，最后两者一起跃到下方停车场。用低机位收尾，远处露出纽约天际线。快摇、硬切与高位跟拍交替，但保持运动方向及猫的真实体型。只收轮声、金属摩擦、车流、人声和风，不加音乐。
+```
+
+*来源: [作者原帖、视频和提示词](https://x.com/AIwithSynthia/status/2125650088341246435) · [浏览量快照来源](https://www.creatok.ai/en/magi-2-prompts/nyc-skateboard-and-cat)*
+
+### 0.4. 废墟重逢
+
+**约 2.8 万 X 帖子浏览** · @AIwithkhan · Higgsfield 创作者合作
+
+*用同构手部特写，把破败宅邸硬切成阳光花园。*
+
+[![播放废墟重逢](https://pbs.twimg.com/amplify_video_thumb/2125640216140775424/img/qacWXGG-a6NKwrvS.jpg)](https://x.com/AIwithkhan/status/2125640284830835088)
+
+**提示词（据原作者版本整理，可复制）:**
+
+```text
+30 秒写实叙事短片，共八镜。废弃宅邸里，含泪的女子认出对面受伤的男人，慢慢放下弓。过肩拍男人靠着碎裂立柱，再看她跪到身边、碰他的脸、抱住他。切到满灰的大理石地面上交握的手；泪滴落在指间后，直接硬切到一模一样的构图和手势，此时两人衣着整洁、伤已经消失，身处阳光花园。沿花径跟拍同一对人物，切特写捕捉他们对望，最后轻轻绕拍亲吻，在拥抱处留一拍。前后脸型和身形不变。自然表演、细颗粒，只收呼吸、脚步、布料和鸟鸣，不加配乐。
+```
+
+*来源: [作者原帖、视频和提示词](https://x.com/AIwithkhan/status/2125640284830835088) · [浏览量快照来源](https://www.creatok.ai/en/magi-2-prompts/cinematic-reunion)*
 
 ---
 
