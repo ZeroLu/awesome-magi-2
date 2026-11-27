@@ -32,7 +32,7 @@ Last updated on 2026-11-27
 
 ## 热门创作者案例
 
-按 2026 年 11 月 27 日查到的公开 X 帖子浏览量快照从高到低排列，不是视频播放次数。点击封面看作者原视频；提示词直接在本页复制。
+按 2026 年 11 月 27 日查到的公开 X 帖子浏览量快照从高到低排列，不是视频播放次数。每个案例都附作者原帖和可复制的提示词。
 
 ### 0.1. 小厨师给爸爸做煎饼
 
@@ -40,7 +40,7 @@ Last updated on 2026-11-27
 
 *一顶太大的厨师帽、一张煎焦的饼，串起一段温暖的家庭喜剧。*
 
-[![播放小厨师给爸爸做煎饼](https://pbs.twimg.com/amplify_video_thumb/2125522723820724224/img/IUjb3rXQs4XsOrlO.jpg)](https://x.com/AIwithkhan/status/2125522773258952776)
+https://github.com/user-attachments/assets/8d9caeaf-426a-4e5a-ba9a-c29b8718333d
 
 **提示词（据原作者版本整理，可复制）:**
 
@@ -56,7 +56,7 @@ Last updated on 2026-11-27
 
 *把手绘小人放进写实纽约，让城市日常物件变成闯关道具。*
 
-[![播放巨城里的小小送货员](https://pbs.twimg.com/amplify_video_thumb/2125574401056002049/img/_pGviTq2HlJRhXko.jpg)](https://x.com/AIwithSynthia/status/2125574502285529485)
+https://github.com/user-attachments/assets/3a174a99-9f37-45a9-9c73-a3d6c222d37c
 
 **提示词（据原作者版本整理，可复制）:**
 
@@ -72,7 +72,7 @@ Last updated on 2026-11-27
 
 *贴地追拍，让滑板手和猫跨街区保持同步。*
 
-[![播放纽约滑板手和猫](https://pbs.twimg.com/amplify_video_thumb/2125649995223445504/img/JE1drsBQTlnd7A2V.jpg)](https://x.com/AIwithSynthia/status/2125650088341246435)
+https://github.com/user-attachments/assets/36bc8895-a32f-4789-93ef-4d2acbf8dc41
 
 **提示词（据原作者版本整理，可复制）:**
 
@@ -88,7 +88,7 @@ Last updated on 2026-11-27
 
 *用同构手部特写，把破败宅邸硬切成阳光花园。*
 
-[![播放废墟重逢](https://pbs.twimg.com/amplify_video_thumb/2125640216140775424/img/qacWXGG-a6NKwrvS.jpg)](https://x.com/AIwithkhan/status/2125640284830835088)
+https://github.com/user-attachments/assets/97fe521d-c363-463e-b9fb-6ec97f936dc9
 
 **提示词（据原作者版本整理，可复制）:**
 

@@ -32,7 +32,7 @@ Try on Cyberbara: [Text to Video](https://cyberbara.com/ai-video-generator?entry
 
 ## Most-viewed creator picks
 
-Ranked by publicly reported X post views checked on November 27, 2026, not video play counts. Click a poster for the creator’s original clip; copy prompts directly below.
+Ranked by publicly reported X post views checked on November 27, 2026, not video play counts. Each case includes the original author post and a copyable prompt.
 
 ### 0.1. A Father's Little Chef
 
@@ -40,7 +40,7 @@ Ranked by publicly reported X post views checked on November 27, 2026, not video
 
 *An oversized chef hat and a burnt pancake turn a kitchen mishap into a warm family comedy.*
 
-[![Play A Father's Little Chef](https://pbs.twimg.com/amplify_video_thumb/2125522723820724224/img/IUjb3rXQs4XsOrlO.jpg)](https://x.com/AIwithkhan/status/2125522773258952776)
+https://github.com/user-attachments/assets/8d9caeaf-426a-4e5a-ba9a-c29b8718333d
 
 **Copy-ready prompt (adapted from source):**
 
@@ -56,7 +56,7 @@ Create a 30-second 3D animated family comedy in a softly lit Japanese kitchen. K
 
 *Hand-drawn animation meets real-world scale in a playful New York delivery run.*
 
-[![Play Tiny Delivery Rider, Giant City](https://pbs.twimg.com/amplify_video_thumb/2125574401056002049/img/_pGviTq2HlJRhXko.jpg)](https://x.com/AIwithSynthia/status/2125574502285529485)
+https://github.com/user-attachments/assets/3a174a99-9f37-45a9-9c73-a3d6c222d37c
 
 **Copy-ready prompt (adapted from source):**
 
@@ -72,7 +72,7 @@ Create a 30-second 3D animated family comedy in a softly lit Japanese kitchen. K
 
 *A wheel-height chase camera keeps the skater and her cat in sync across the city.*
 
-[![Play NYC Skateboarder and Cat](https://pbs.twimg.com/amplify_video_thumb/2125649995223445504/img/JE1drsBQTlnd7A2V.jpg)](https://x.com/AIwithSynthia/status/2125650088341246435)
+https://github.com/user-attachments/assets/36bc8895-a32f-4789-93ef-4d2acbf8dc41
 
 **Copy-ready prompt (adapted from source):**
 
@@ -88,7 +88,7 @@ Create a 30-second 3D animated family comedy in a softly lit Japanese kitchen. K
 
 *One match cut carries the same hand position from a ruined mansion to a bright garden.*
 
-[![Play A Reunion Across Two Worlds](https://pbs.twimg.com/amplify_video_thumb/2125640216140775424/img/qacWXGG-a6NKwrvS.jpg)](https://x.com/AIwithkhan/status/2125640284830835088)
+https://github.com/user-attachments/assets/97fe521d-c363-463e-b9fb-6ec97f936dc9
 
 **Copy-ready prompt (adapted from source):**
 
